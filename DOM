@@ -591,7 +591,7 @@
       <div class="status-dot"></div>
     </div>
     <div class="hero-text">
-      <div class="terminal-tag">~/ved-shankar-jha $ whoami</div>
+      <div class="terminal-tag">~/ved shankar jha $ whoami</div>
       <h1>Vedant <span>Shankar Jha</span></h1>
       <div class="hero-sub">
         B.Tech ENTC &nbsp;·&nbsp; <span class="accent">GECA '29</span> &nbsp;·&nbsp; Builder · Leader · Thinker
