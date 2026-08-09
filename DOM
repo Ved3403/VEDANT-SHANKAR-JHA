@@ -637,7 +637,7 @@
       <div><span class="t-prompt">ved@geca</span><span class="t-comment">:</span><span class="t-key">~</span><span class="t-comment">$</span> <span class="t-cmd">cat profile.json</span></div>
       <div>{</div>
       <div>&nbsp;&nbsp;<span class="t-key">"name"</span>: <span class="t-str">"Vedant Shankar Jha"</span>,</div>
-      <div>&nbsp;&nbsp;<span class="t-key">"college"</span>: <span class="t-str">"Government College of Engineering, CSB"</span>,</div>
+      <div>&nbsp;&nbsp;<span class="t-key">"college"</span>: <span class="t-str">"Government College of Engineering, CSN"</span>,</div>
       <div>&nbsp;&nbsp;<span class="t-key">"branch"</span>: <span class="t-str">"Electronics &amp; Telecommunication Engineering"</span>,</div>
       <div>&nbsp;&nbsp;<span class="t-key">"year"</span>: <span class="t-val">2</span>,</div>
       <div>&nbsp;&nbsp;<span class="t-key">"ambition"</span>: <span class="t-str">"Product Management × AI × Leadership"</span>,</div>
